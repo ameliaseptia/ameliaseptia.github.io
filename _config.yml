@@ -8,7 +8,8 @@
 # Site settings
 title: Amelia Septia Roza
 email: ameliaseptiaroza@gmail.com
-description: Hello. Welcome to my blog. My Name is Amelia Septia Roza. You can call me Amel.
+description: Hello. Welcome to my blog. My Name is Amelia Septia Roza.
+             You can call me Amel. I'm a Student of Information System at State Islamic University of Sultan Syarif Kasim Riau
 baseurl: '/ameliaseptia.github.io/'
 url: 'http://ameliaseptia.github.io'
 twitter_username: jekyllrb
