@@ -3,7 +3,6 @@ layout: post
 title:  "Uin Suska Riau"
 date:   2017-12-10 14:30 
 categories: post
-picture :"/assets/rektorat.jpg"
 ---
   Universitas Islam Negeri Sultan Syarif Kasim Riau (disebut juga UIN Suska Riau) adalah Universitas Islam Negeri yang berada di Pekanbaru. Penamaannya dengan Sultan Syarif Kasim yaitu nama sultan ke-12 atau sultan terakhir Kesultanan Siak Sri Inderapura.
 
