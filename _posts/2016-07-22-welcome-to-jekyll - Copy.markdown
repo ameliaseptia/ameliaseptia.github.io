@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sejarah Singkat Sistem Informasi"
-date:   2016-07-19 11:49:45 +0200
+date:   2017-12-10 15:00 
 categories: jekyll update
 --- 
 
@@ -15,7 +15,7 @@ categories: jekyll update
 
 <br> Dalam pelaksanaannya Jurusan Sistem Informasi telah melakukan kerjasama dengan PT. Chevron Pacific Indonesia. Disamping itu dilakukan juga kerjasama dengan beberapa pihak seperti Universitas Riau, Politeknik Caltex Riau, PT. Riau Andalan Pulp and Paper (RAPP), PT. Indah Kiat Pulp and Paper (IKPP), dan Pemerintah Daerah Provinsi Riau.
 
-Untuk update berita terbaru silahkan kunjungi website Sistem Informasi di [Sistem Informasi Uin Suska Riau]
+ <br> Untuk update berita terbaru silahkan kunjungi website Sistem Informasi di [Sistem Informasi Uin Suska Riau]
 
 [Sistem Informasi Uin Suska Riau]: https://sif.uin-suska.ac.id/
 
